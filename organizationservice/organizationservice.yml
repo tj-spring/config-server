@@ -1,4 +1,4 @@
-example.property: "I AM THE DEFAULT ASSET SERVICE"
+example.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
